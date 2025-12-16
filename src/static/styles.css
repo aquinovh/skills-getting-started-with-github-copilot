@@ -79,6 +79,9 @@ section h3 {
   margin-left: 20px;
   margin-bottom: 10px;
   padding-left: 0;
+  background-color: #f9f9f9;
+  border-left: 3px solid #0066cc;
+  padding: 10px 10px 10px 20px;
 }
 
 .activity-card li {
